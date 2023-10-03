@@ -1,0 +1,107 @@
+{"productDetails": [
+  {
+    "id": 1,
+    "name": "Laptop",
+    "price": 800,
+    "category": "Electronics",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "name": "Smartphone",
+    "price": 500,
+    "category": "Electronics",
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Desk Chair",
+    "price": 120, 	
+    "category": "Furniture",
+    "rating": 4.2
+  },
+  {
+    "id": 4,
+    "name": "Backpack",
+    "price": 50,
+    "category": "Fashion",
+    "rating": 4.0
+  },
+  {
+    "id": 5,
+    "name": "Headphones",
+    "price": 80,
+    "category": "Electronics",
+    "rating": 4.3
+  },
+  {
+    "id": 6,
+    "name": "Coffee Maker",
+    "price": 60,
+    "category": "Appliances",
+    "rating": 4.6
+  },
+  {
+    "id": 7,
+    "name": "Running Shoes",
+    "price": 90,
+    "category": "Fashion",
+    "rating": 4.1
+  },
+  {
+    "id": 8,
+    "name": "Sunglasses",
+    "price": 30,
+    "category": "Fashion",
+    "rating": 4.7
+  },
+  {
+    "id": 9,
+    "name": "Television",
+    "price": 1000,
+    "category": "Electronics",
+    "rating": 4.4
+  },
+  {
+    "id": 10,
+    "name": "Gaming Console",
+    "price": 350,
+    "category": "Electronics",
+    "rating": 4.9
+  },
+  {
+    "id": 11,
+    "name": "Office Desk",
+    "price": 150,
+    "category": "Furniture",
+    "rating": 4.2
+  },
+  {
+    "id": 12,
+    "name": "Hoodie",
+    "price": 40,
+    "category": "Fashion",
+    "rating": 4.3
+  },
+  {
+    "id": 13,
+    "name": "Fitness Tracker",
+    "price": 70,
+    "category": "Electronics",
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "name": "Home Theater System",
+    "price": 450,
+    "category": "Electronics",
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "name": "Camera",
+    "price": 600,
+    "category": "Electronics",
+    "rating": 4.5
+  }
+]}
